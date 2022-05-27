@@ -1,3 +1,8 @@
+#Local mpackage install 
+-e .
+
+# Third party mpackage install
+
 dvc
 dvc[gdrive]
 sklearn
